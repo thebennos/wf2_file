@@ -1,0 +1,26 @@
+# German translation of Flexible Table Of Contents (8.x-1.0-beta2)
+# Copyright (c) 2019 by the German translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Table Of Contents (8.x-1.0-beta2)\n"
+"POT-Creation-Date: 2019-06-14 19:48+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Language"
+msgstr "Sprache"
+msgid "Table of contents"
+msgstr "Inhaltsverzeichnis"
+msgid "block administration"
+msgstr "Blockverwaltung"
+msgid "Table of Contents"
+msgstr "Inhaltsverzeichnis"
+msgid "The field \"%field\" failed to render with the error of \"%error\"."
+msgstr ""
+"Das Feld „%field“ konnte auf Grund eines Fehlers nicht angezeigt "
+"werden, Fehler: „%error“."

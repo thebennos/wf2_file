@@ -1,0 +1,22 @@
+# German translation of Leaflet Widget for Geofield (8.x-2.0-alpha1)
+# Copyright (c) 2019 by the German translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Leaflet Widget for Geofield (8.x-2.0-alpha1)\n"
+"POT-Creation-Date: 2019-02-12 15:48+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Height"
+msgstr "Höhe"
+msgid "Latitude"
+msgstr "Breitengrad"
+msgid "Map Settings"
+msgstr "Karten-Einstellungen"
+msgid "Leaflet"
+msgstr "Leaflet"
